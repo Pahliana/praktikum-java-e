@@ -25,6 +25,7 @@ public class DataType {
         System.out.println("Cantik : " +cantik);
 
 
-        JOptionPane.showMessageDialog(null, "Halo"+namaDepan+" "+namaTengah+" "+namaBelakang, "Ini Judul", JOptionPane.WARNING_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Halo"+namaDepan+" " +
+                ""+namaTengah+" "+namaBelakang, "Ini Judul", JOptionPane.WARNING_MESSAGE);
     }
 }
